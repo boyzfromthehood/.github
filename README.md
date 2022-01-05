@@ -1,2 +1,1 @@
-# boyzfromthehood
 whoami
